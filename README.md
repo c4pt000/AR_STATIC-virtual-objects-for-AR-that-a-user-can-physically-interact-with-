@@ -24,3 +24,19 @@ all less than probably 3V volt of static electicity
 
 D.Weinberg
 04-22-2021 7:20pm
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for AR contacts see-> https://github.com/c4pt000/mojo-vison-OT (not my design)
