@@ -1,5 +1,6 @@
 # AR_STATIC-virtual-objects-for-AR-that-a-user-can-physically-interact-with-vvirtual objects for AR that a user can physically interact with:
 
+(drafting **WIP)
 
 my own personal design thinking of AR based physical objects that are harmless to the touch even an AI based human avatar only visible through AR contact lens or an AR viewer
 but the user can feel the human avatar or 3d object as nothing but electro-static at minimal levels that are not dangerous or harmful,
