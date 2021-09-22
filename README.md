@@ -40,3 +40,14 @@ D.Weinberg
 
 
 for AR contacts see-> https://github.com/c4pt000/mojo-vison-OT (not my design)
+
+
+
+
+
+
+
+* 09-22-2021
+Noticing similar technology involving air jets and visual holograms
+
+https://futurism.com/scientists-holograms-touch/amp
