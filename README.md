@@ -51,3 +51,5 @@ for AR contacts see-> https://github.com/c4pt000/mojo-vison-OT (the mojo contact
 Noticing similar technology involving air jets and visual holograms
 
 https://futurism.com/scientists-holograms-touch/amp
+
+https://qz.com/584704/japanese-scientists-have-created-a-new-type-of-hologram-that-you-can-actually-feel/
