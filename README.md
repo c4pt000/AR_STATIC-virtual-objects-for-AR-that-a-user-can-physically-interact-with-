@@ -39,7 +39,7 @@ D.Weinberg
 
 
 
-for AR contacts see-> https://github.com/c4pt000/mojo-vison-OT (not my design)
+for AR contacts see-> https://github.com/c4pt000/mojo-vison-OT (the mojo contacts are not my design)
 
 
 
