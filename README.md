@@ -53,3 +53,9 @@ Noticing similar technology involving air jets and visual holograms
 https://futurism.com/scientists-holograms-touch/amp
 
 https://qz.com/584704/japanese-scientists-have-created-a-new-type-of-hologram-that-you-can-actually-feel/
+
+
+
+09-28-2021
+
+https://www.inverse.com/science/touchable-holograms
